@@ -1,0 +1,10 @@
+sys.argv => Fetch arguments passed via command line on calling the file
+
+Code:
+with open(fileName) as out:
+	do the operations
+
+What it does:
+Opens up a file, does certain work on it and closes the file without fail
+
+			  
